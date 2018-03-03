@@ -6,7 +6,7 @@ body {
   background: url("images/concrete_seamless.png");
 }
 
-footer {
+.footerNew {
   padding: 30px 0;
   clear: both;
   font-size: 12px;
@@ -28,6 +28,9 @@ footer {
   text-align: center;
   text-decoration: none;
   background: #4aaaa5;
+}
+.panel-body{
+  height: 150px;
 }
 
 
