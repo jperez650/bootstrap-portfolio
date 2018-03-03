@@ -19,7 +19,7 @@ Download the repo to your computer and then open the index file using your chrom
 
 ## Author
 
-* **Jose Perez** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Jose Perez** - *Initial work* - [Bootstraps Portfolio](https://github.com/jperez650/bootstrap-portfolio)
 
 
 ## License
