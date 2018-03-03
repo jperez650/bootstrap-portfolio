@@ -1,7 +1,7 @@
 # Bootstraps-Portfolio
-<img src="images/aboutImage">
-<img src="images/portfolioImage">
-<img src="images/contactImage">
+<img src="images/aboutImage.png">
+<img src="images/portfolioImage.png">
+<img src="images/contactImage.png">
 
 This is a basic portfolio with and index, contact and portfolio page. 
 
